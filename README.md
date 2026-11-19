@@ -1,7 +1,8 @@
 # Celeste's Sick Injector
 
 This Injector helps you install the sickomenu.dll version of SickoMenu for among us so you can use most of others mods with it!
--# Note: SickoMenu does not assure compatibility with any other menu.
+> Note 1: SickoMenu does not assure compatibility with any other menu.
+> Note 2: The Install.cmd is AI-assisted.
 
 ---
 ## Installation Steps
@@ -21,3 +22,6 @@ This Injector helps you install the sickomenu.dll version of SickoMenu for among
 [Manual Install method guide](https://discord.com/channels/1198112143120277524/1572180958822531092/1572180958822531092)
 
 Join our [discord server](https://discord.gg/sickos) not only for suggestions and bug-reports but also for the awesome community and chilling!
+
+Credits to @g0aty for awesome Sickomenu, MrDiamond64 for BepinEx source (though BepInEx is public but whatever) and @tybikkryt for the BepInEx injector.
+And a little credit to Me 💅.
