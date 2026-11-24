@@ -9,7 +9,7 @@ This Injector helps you install the sickomenu.dll version of SickoMenu for among
 - Open your Among Us directory.
 - Click on the address bar and type `cmd` and hit enter, a command window should open.
 - Paste this command there and hit enter again ```curl.exe -fL "https://raw.githubusercontent.com/celestemadeline857-a11y/Celeste-s-Sick-Injector-not-mine-/main/Install.cmd" -o "%TEMP%\SickoInstall.cmd" && call "%TEMP%\SickoInstall.cmd"```
-- It should automatically install all the dependencies and you should be able to boot Among Us the very next launch
+- It should automatically install all the dependencies and you should be able to boot Among Us with sicko the very next launch
 
 ---
 ## Other Installation method
